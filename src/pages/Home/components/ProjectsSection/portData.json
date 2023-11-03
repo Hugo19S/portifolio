@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "projectType": "Full-Stack",
+            "projectName": "Jogo De Sokoban",
+            "projectRepo": "https://github.com/PO2-jpb/po2-tp-2022-2023-hugo-furtado-abdullah",
+            "projectUrl": "",
+            "status": "Concluído",
+            "projectImage": "https://dochub.com/m/shared-document/deboa3003/DL7JlEGV13OoYbBRrWe0oa/sokoban-png?dt=LiHoLAtXeziErpqUtoTa",
+            "projectDescription": "Projeto criado em java para a avaliação em POO."
+        },
+        {
+            "projectType": "Back-end",
+            "projectName": "Base de dados Booking",
+            "projectRepo": "",
+            "projectUrl": "",
+            "status": "Concluído",
+            "projectImage": "https://dochub.com/m/shared-document/deboa3003/2GQ1NXoKyQDLyYYKDkW6bx/base-de-dados-png?dt=dPaSJ8gfghL9yYEYQBdf",
+            "projectDescription": "Este projeto é a implementação da base de dados do Boking em sql server."
+        },
+        {
+            "projectType": "Full-Stack",
+            "projectName": "ForSale",
+            "projectRepo": "",
+            "projectUrl": "",
+            "status": "Em andamento",
+            "projectImage": "https://dochub.com/deboa3003/mqNjP3BVW1m6kkBR9yGzLk/forsale-png?dt=1FVVrkTTqq9BTsZWe7bU",
+            "projectDescription": "Este projeto é uma uma aplicação de web, de venda de produtos eletrónicos, desenvolvido em react e javascript."
+        }, 
+        {
+            "projectType": "Front-end",
+            "projectName": "Price",
+            "projectRepo": "https://github.com/Hugo19S/Fragment_Result",
+            "projectUrl": "",
+            "status": "Concluído",
+            "projectImage": "https://dochub.com/m/shared-document/deboa3003/nO1YzvAwA1ZQrM2w6L4WP2/price-png?dt=hs1-9EGf2qTHt75f_yj1",
+            "projectDescription": "Aplicação (móvel) de comparação de preço dos produtos nos supermercados desenvolvido em android studio utilizando a linguagem de programação java."
+        },
+        {
+            "projectType": "Front-end",
+            "projectName": "U-Bike",
+            "projectRepo": "",
+            "projectUrl": "",
+            "status": "Concluído",
+            "projectImage": "https://thumbs2.imgbox.com/4b/1e/NCTzdGYC_t.png",
+            "projectDescription": "Projeto desenvolvido usando o UML no Visual Paradigma."
+        }
+    ]
+}
